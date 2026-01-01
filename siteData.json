@@ -770,7 +770,7 @@
         "w9-iter-3-mvp-v1-3": " W9  Iter.3 [ MVP → v1.3 ]",
         "w10-iter-4-alpha-version-v1-4": "W10 Iter.4 [ Alpha Version → v1.4 ]",
         "w11-iter-5-release-candidate-v1-5": "W11  Iter.5 [ Release Candidate → v1.5 ]",
-        "w12-iter-6-public-release-v1-6": "W12 Iter.6 [ Public Release → v1.6 ]"
+        "w10-iter-6-public-release-v1-6": "W10 Iter.6 [ Public Release → v1.6 ]"
       },
       "headingKeywords": {}
     },
@@ -799,31 +799,32 @@
         "2-fix-alpha-test-bugs-fine-tune-features-improve-code-quality": "2  Fix alpha-test bugs, fine-tune features, improve code quality",
         "3-update-ug-and-dg": "3  Update UG and DG",
         "4-settle-code-authorship": "4  Settle code authorship",
-        "5-release-v1-5-thu-apr-2nd-23-59": "5  Release v1.5  Thu, Apr 2nd 23:59",
-        "6-take-part-in-the-practical-exam-dry-run-fri-apr-3rd-1200-1800-counted-for-participation": "6  Take part in the practical exam dry run  Fri, Apr 3rd 1200-1800 counted for participation"
+        "5-release-v1-5-thu-apr-2nd-23-59": "5  Release v1.5  Thu, Apr 2nd 23:59"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w12.md",
-      "title": "Admin: tP Week 12: Public Release → v1.6",
+      "title": "Admin: tP Week 12: Extra Week for v1.5",
       "headings": {
-        "tp-week-12-public-release-v1-6": "tP Week 12: Public Release → v1.6 ",
+        "tp-week-12-extra-week-for-v1-5": "tP Week 12: Extra Week for v1.5 ",
         "intro-to-tp-week-12": "Intro to tP Week 12",
-        "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
-        "2-submit-final-deliverables-tue-apr-7th-14-00": "2  Submit final deliverables  Tue, Apr 7th 14:00",
-        "3-prepare-for-the-practical-exam": "3  Prepare for the practical exam",
-        "4-take-part-in-the-practical-exam-fri-apr-10th-12-noon-to-sat-apr-11th-12-noon": "4  Take part in the practical exam  Fri, Apr 10th 12 noon to Sat, Apr 11th 12 noon"
+        "1-finish-any-remaining-v1-5-tasks": "1 Finish any remaining v1.5 tasks",
+        "2-take-part-in-the-practical-exam-dry-run-pe-d-fri-apr-10th-1600-1800-counted-for-participation": "2  Take part in the practical exam dry run (PE-D)  Fri, Apr 10th 1600-1800 counted for participation"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w13.md",
-      "title": "Admin: tP Week 13: Post-Release Tasks",
+      "title": "Admin: tP Week 13: Public Release → v1.6",
       "headings": {
-        "tp-week-13-post-release-tasks": "tP Week 13: Post-Release Tasks ",
+        "tp-week-13-public-release-v1-6": "tP Week 13: Public Release → v1.6 ",
         "intro-to-tp-week-13": "Intro to tP Week 13",
-        "1-attend-to-post-release-tasks": "1 / Attend to post-release tasks"
+        "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
+        "2-submit-final-deliverables-tue-apr-14th-14-00": "2  Submit final deliverables  Tue, Apr 14th 14:00",
+        "3-prepare-for-the-practical-exam": "3  Prepare for the practical exam",
+        "4-ensure-the-code-is-reposense-compatible": "4  Ensure the code is RepoSense-compatible",
+        "5-take-part-in-the-practical-exam-pe-fri-apr-17th-12-noon-to-sat-apr-18th-12-noon": "5  Take part in the practical exam (PE)  Fri, Apr 17th 12 noon to Sat, Apr 18th 12 noon"
       },
       "headingKeywords": {}
     },
