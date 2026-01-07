@@ -1,0 +1,39 @@
+2026-01-07T05:26:18.913Z - info: Website generation (lazy) started at 13:26:17
+2026-01-07T05:26:19.615Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-07T05:26:19.616Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-07T05:26:19.636Z - info: Building assets...
+2026-01-07T05:26:22.218Z - info: Assets built
+2026-01-07T05:26:22.218Z - info: Generating landing page...
+2026-01-07T05:26:22.555Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-07T05:26:22.629Z - info: Site data built
+2026-01-07T05:26:22.629Z - info: Website generation (lazy) complete! Total build time: 4.993s
+2026-01-07T05:26:22.642Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-07T05:26:22.642Z - info: Press CTRL+C to stop ...
+2026-01-07T05:30:05.025Z - info: [13:30:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2026-01-07T05:30:05.030Z - info: Synchronizing opened pages list before reload
+2026-01-07T05:30:05.035Z - info: Current opened pages, from most-to-least recent:
+2026-01-07T05:30:05.036Z - info: 1. index
+2026-01-07T05:30:06.053Z - info: Assets built
+2026-01-07T05:30:10.890Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutorials as some of its dependencies were changed since the last visit
+2026-01-07T05:30:11.421Z - info: Site data built
+2026-01-07T05:30:11.421Z - info: Lazy website regeneration complete! Total build time: 0.532s
+2026-01-07T05:31:31.941Z - info: [13:31:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2026-01-07T05:31:31.944Z - info: Synchronizing opened pages list before reload
+2026-01-07T05:31:31.947Z - info: Current opened pages, from most-to-least recent:
+2026-01-07T05:31:31.947Z - info: 1. admin/tutorials
+2026-01-07T05:31:32.964Z - info: Rebuilding 1 pages
+2026-01-07T05:31:33.478Z - info: Site data built
+2026-01-07T05:31:33.478Z - info: Pages rebuilt
+2026-01-07T05:31:33.478Z - info: Website regeneration complete! Total build time: 0.517s
+2026-01-07T05:32:25.025Z - info: [13:32:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2026-01-07T05:32:25.035Z - info: Synchronizing opened pages list before reload
+2026-01-07T05:32:25.045Z - info: Current opened pages, from most-to-least recent:
+2026-01-07T05:32:25.046Z - info: 1. admin/tutorials
+2026-01-07T05:32:26.067Z - info: Rebuilding 1 pages
+2026-01-07T05:32:26.561Z - info: Site data built
+2026-01-07T05:32:26.562Z - info: Pages rebuilt
+2026-01-07T05:32:26.562Z - info: Website regeneration complete! Total build time: 0.497s
+2026-01-07T05:32:45.374Z - info: Website generation started at 13:32:44
+2026-01-07T05:32:45.811Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-07T05:32:45.811Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2113-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-07T05:32:45.832Z - info: Building assets...
