@@ -2,3 +2,256 @@
 2026-01-19T09:34:32.223Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
 2026-01-19T09:34:32.224Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
 2026-01-19T09:34:32.247Z - info: Building assets...
+2026-01-19T09:34:36.363Z - info: Assets built
+2026-01-19T09:34:36.366Z - info: Generating pages...
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.849Z - debug:  
+2026-01-19T09:34:48.884Z - debug:  
+2026-01-19T09:34:52.012Z - debug:  
+2026-01-19T09:34:52.052Z - debug:  
+2026-01-19T09:34:52.092Z - debug:  
+2026-01-19T09:34:52.093Z - debug:  
+2026-01-19T09:34:52.125Z - debug:  
+2026-01-19T09:34:52.172Z - debug:  
+2026-01-19T09:35:05.808Z - debug:  
+2026-01-19T09:36:02.242Z - debug:  
+2026-01-19T09:36:02.242Z - debug:  
+2026-01-19T09:36:10.601Z - debug:  
+2026-01-19T09:36:28.980Z - debug:  
+2026-01-19T09:36:29.040Z - debug:  
+2026-01-19T09:36:37.623Z - info: Pages built
+2026-01-19T09:36:37.710Z - info: Site data built
+2026-01-19T09:36:37.710Z - info: Website generation complete! Total build time: 127.573s
+2026-01-19T09:36:37.710Z - info: Build success!
+2026-01-19T09:37:06.061Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
+2026-01-19T10:56:04.975Z - info: Website generation (lazy) started at 18:56:03
+2026-01-19T10:56:05.558Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-19T10:56:05.558Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-19T10:56:05.579Z - info: Building assets...
+2026-01-19T10:56:08.354Z - info: Assets built
+2026-01-19T10:56:08.355Z - info: Generating landing page...
+2026-01-19T10:56:08.735Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-19T10:56:08.802Z - info: Site data built
+2026-01-19T10:56:08.802Z - info: Website generation (lazy) complete! Total build time: 5.116s
+2026-01-19T10:56:08.814Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-01-19T10:56:08.814Z - info: Press CTRL+C to stop ...
+2026-01-19T10:56:15.441Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/instructors as some of its dependencies were changed since the last visit
+2026-01-19T10:56:15.716Z - info: Site data built
+2026-01-19T10:56:15.717Z - info: Lazy website regeneration complete! Total build time: 0.277s
+2026-01-19T10:57:04.286Z - info: [18:57:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T10:57:04.287Z - info: Synchronizing opened pages list before reload
+2026-01-19T10:57:04.288Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T10:57:04.288Z - info: 1. admin/instructors
+2026-01-19T10:57:05.315Z - info: Rebuilding 1 pages
+2026-01-19T10:57:05.523Z - info: Site data built
+2026-01-19T10:57:05.523Z - info: Pages rebuilt
+2026-01-19T10:57:05.523Z - info: Website regeneration complete! Total build time: 0.212s
+2026-01-19T10:58:16.141Z - info: [18:58:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T10:58:16.145Z - info: Synchronizing opened pages list before reload
+2026-01-19T10:58:16.147Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T10:58:16.147Z - info: 1. admin/instructors
+2026-01-19T10:58:17.160Z - info: Rebuilding 1 pages
+2026-01-19T10:58:17.378Z - info: Site data built
+2026-01-19T10:58:17.378Z - info: Pages rebuilt
+2026-01-19T10:58:17.378Z - info: Website regeneration complete! Total build time: 0.225s
+2026-01-19T10:58:42.335Z - info: [18:58:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T10:58:42.337Z - info: Synchronizing opened pages list before reload
+2026-01-19T10:58:42.339Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T10:58:42.341Z - info: 1. admin/instructors
+2026-01-19T10:58:43.364Z - info: Rebuilding 1 pages
+2026-01-19T10:58:43.528Z - info: Site data built
+2026-01-19T10:58:43.529Z - info: Pages rebuilt
+2026-01-19T10:58:43.529Z - info: Website regeneration complete! Total build time: 0.168s
+2026-01-19T10:59:35.272Z - info: [18:59:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T10:59:35.273Z - info: Synchronizing opened pages list before reload
+2026-01-19T10:59:35.274Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T10:59:35.274Z - info: 1. admin/instructors
+2026-01-19T10:59:36.319Z - info: Rebuilding 1 pages
+2026-01-19T10:59:36.572Z - info: Site data built
+2026-01-19T10:59:36.572Z - info: Pages rebuilt
+2026-01-19T10:59:36.572Z - info: Website regeneration complete! Total build time: 0.258s
+2026-01-19T11:00:29.024Z - info: [19:00:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:00:29.029Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:00:29.032Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:00:29.032Z - info: 1. admin/instructors
+2026-01-19T11:00:30.056Z - info: Rebuilding 1 pages
+2026-01-19T11:00:30.251Z - info: Site data built
+2026-01-19T11:00:30.251Z - info: Pages rebuilt
+2026-01-19T11:00:30.251Z - info: Website regeneration complete! Total build time: 0.198s
+2026-01-19T11:00:37.634Z - info: [19:00:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:00:37.635Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:00:37.636Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:00:37.637Z - info: 1. admin/instructors
+2026-01-19T11:00:38.642Z - info: Rebuilding 1 pages
+2026-01-19T11:00:38.821Z - info: Site data built
+2026-01-19T11:00:38.821Z - info: Pages rebuilt
+2026-01-19T11:00:38.821Z - info: Website regeneration complete! Total build time: 0.18s
+2026-01-19T11:01:17.785Z - info: [19:01:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:01:17.785Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:01:17.786Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:01:17.786Z - info: 1. admin/instructors
+2026-01-19T11:01:18.792Z - info: Rebuilding 1 pages
+2026-01-19T11:01:18.994Z - info: Site data built
+2026-01-19T11:01:18.994Z - info: Pages rebuilt
+2026-01-19T11:01:18.994Z - info: Website regeneration complete! Total build time: 0.205s
+2026-01-19T11:02:02.902Z - info: [19:02:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:02:02.906Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:02:02.909Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:02:02.909Z - info: 1. admin/instructors
+2026-01-19T11:02:03.931Z - info: Rebuilding 1 pages
+2026-01-19T11:02:04.116Z - info: Site data built
+2026-01-19T11:02:04.116Z - info: Pages rebuilt
+2026-01-19T11:02:04.116Z - info: Website regeneration complete! Total build time: 0.188s
+2026-01-19T11:04:28.585Z - info: [19:04:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:04:28.594Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:04:28.617Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:04:28.617Z - info: 1. admin/instructors
+2026-01-19T11:04:29.665Z - info: Rebuilding 1 pages
+2026-01-19T11:04:29.843Z - info: Site data built
+2026-01-19T11:04:29.843Z - info: Pages rebuilt
+2026-01-19T11:04:29.844Z - info: Website regeneration complete! Total build time: 0.186s
+2026-01-19T11:04:46.075Z - info: [19:04:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:04:46.075Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:04:46.075Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:04:46.075Z - info: 1. admin/instructors
+2026-01-19T11:04:47.099Z - info: Rebuilding 1 pages
+2026-01-19T11:04:47.310Z - info: Site data built
+2026-01-19T11:04:47.310Z - info: Pages rebuilt
+2026-01-19T11:04:47.310Z - info: Website regeneration complete! Total build time: 0.218s
+2026-01-19T11:05:20.643Z - info: [19:05:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:05:20.646Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:05:20.646Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:05:20.647Z - info: 1. admin/instructors
+2026-01-19T11:05:21.653Z - info: Rebuilding 1 pages
+2026-01-19T11:05:21.868Z - info: Site data built
+2026-01-19T11:05:21.868Z - info: Pages rebuilt
+2026-01-19T11:05:21.868Z - info: Website regeneration complete! Total build time: 0.218s
+2026-01-19T11:05:41.577Z - info: [19:05:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:05:41.577Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:05:41.577Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:05:41.577Z - info: 1. admin/instructors
+2026-01-19T11:05:42.587Z - info: Rebuilding 1 pages
+2026-01-19T11:05:42.788Z - info: Site data built
+2026-01-19T11:05:42.789Z - info: Pages rebuilt
+2026-01-19T11:05:42.789Z - info: Website regeneration complete! Total build time: 0.207s
+2026-01-19T11:05:49.811Z - info: [19:05:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:05:49.812Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:05:49.812Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:05:49.812Z - info: 1. admin/instructors
+2026-01-19T11:05:50.818Z - info: Rebuilding 1 pages
+2026-01-19T11:05:50.970Z - info: Site data built
+2026-01-19T11:05:50.971Z - info: Pages rebuilt
+2026-01-19T11:05:50.971Z - info: Website regeneration complete! Total build time: 0.155s
+2026-01-19T11:06:11.185Z - info: [19:06:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:06:11.186Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:06:11.186Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:06:11.186Z - info: 1. admin/instructors
+2026-01-19T11:06:12.214Z - info: Rebuilding 1 pages
+2026-01-19T11:06:12.436Z - info: Site data built
+2026-01-19T11:06:12.436Z - info: Pages rebuilt
+2026-01-19T11:06:12.436Z - info: Website regeneration complete! Total build time: 0.242s
+2026-01-19T11:06:23.516Z - info: [19:06:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:06:23.517Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:06:23.517Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:06:23.517Z - info: 1. admin/instructors
+2026-01-19T11:06:24.529Z - info: Rebuilding 1 pages
+2026-01-19T11:06:24.727Z - info: Site data built
+2026-01-19T11:06:24.727Z - info: Pages rebuilt
+2026-01-19T11:06:24.727Z - info: Website regeneration complete! Total build time: 0.201s
+2026-01-19T11:06:38.468Z - info: [19:06:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:06:38.503Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:06:38.529Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:06:38.529Z - info: 1. admin/instructors
+2026-01-19T11:06:39.543Z - info: Rebuilding 1 pages
+2026-01-19T11:06:39.732Z - info: Site data built
+2026-01-19T11:06:39.732Z - info: Pages rebuilt
+2026-01-19T11:06:39.732Z - info: Website regeneration complete! Total build time: 0.193s
+2026-01-19T11:08:35.069Z - info: [19:08:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:08:35.072Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:08:35.074Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:08:35.074Z - info: 1. admin/instructors
+2026-01-19T11:08:36.083Z - info: Rebuilding 1 pages
+2026-01-19T11:08:36.294Z - info: Site data built
+2026-01-19T11:08:36.294Z - info: Pages rebuilt
+2026-01-19T11:08:36.294Z - info: Website regeneration complete! Total build time: 0.215s
+2026-01-19T11:08:50.645Z - info: [19:08:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:08:50.645Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:08:50.645Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:08:50.645Z - info: 1. admin/instructors
+2026-01-19T11:08:51.671Z - info: Rebuilding 1 pages
+2026-01-19T11:08:51.870Z - info: Site data built
+2026-01-19T11:08:51.870Z - info: Pages rebuilt
+2026-01-19T11:08:51.870Z - info: Website regeneration complete! Total build time: 0.201s
+2026-01-19T11:09:12.650Z - info: [19:09:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:09:12.651Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:09:12.651Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:09:12.651Z - info: 1. admin/instructors
+2026-01-19T11:09:13.668Z - info: Rebuilding 1 pages
+2026-01-19T11:09:13.848Z - info: Site data built
+2026-01-19T11:09:13.848Z - info: Pages rebuilt
+2026-01-19T11:09:13.848Z - info: Website regeneration complete! Total build time: 0.192s
+2026-01-19T11:10:17.420Z - info: [19:10:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:10:17.421Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:10:17.422Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:10:17.422Z - info: 1. admin/instructors
+2026-01-19T11:10:18.428Z - info: Rebuilding 1 pages
+2026-01-19T11:10:18.608Z - info: Site data built
+2026-01-19T11:10:18.608Z - info: Pages rebuilt
+2026-01-19T11:10:18.608Z - info: Website regeneration complete! Total build time: 0.182s
+2026-01-19T11:10:55.957Z - info: [19:10:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:10:55.958Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:10:55.959Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:10:55.959Z - info: 1. admin/instructors
+2026-01-19T11:10:56.964Z - info: Rebuilding 1 pages
+2026-01-19T11:10:57.147Z - info: Site data built
+2026-01-19T11:10:57.147Z - info: Pages rebuilt
+2026-01-19T11:10:57.147Z - info: Website regeneration complete! Total build time: 0.186s
+2026-01-19T11:11:57.232Z - info: [19:11:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:11:57.261Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:11:57.289Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:11:57.290Z - info: 1. admin/instructors
+2026-01-19T11:11:58.319Z - info: Rebuilding 1 pages
+2026-01-19T11:11:58.574Z - info: Site data built
+2026-01-19T11:11:58.574Z - info: Pages rebuilt
+2026-01-19T11:11:58.574Z - info: Website regeneration complete! Total build time: 0.267s
+2026-01-19T11:12:40.849Z - info: [19:12:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:12:40.853Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:12:40.854Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:12:40.854Z - info: 1. admin/instructors
+2026-01-19T11:12:41.864Z - info: Rebuilding 1 pages
+2026-01-19T11:12:42.059Z - info: Site data built
+2026-01-19T11:12:42.059Z - info: Pages rebuilt
+2026-01-19T11:12:42.059Z - info: Website regeneration complete! Total build time: 0.2s
+2026-01-19T11:12:59.839Z - info: [19:12:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:12:59.840Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:12:59.841Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:12:59.841Z - info: 1. admin/instructors
+2026-01-19T11:13:00.857Z - info: Rebuilding 1 pages
+2026-01-19T11:13:01.047Z - info: Site data built
+2026-01-19T11:13:01.048Z - info: Pages rebuilt
+2026-01-19T11:13:01.048Z - info: Website regeneration complete! Total build time: 0.194s
+2026-01-19T11:13:17.198Z - info: [19:13:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2026-01-19T11:13:17.199Z - info: Synchronizing opened pages list before reload
+2026-01-19T11:13:17.199Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T11:13:17.199Z - info: 1. admin/instructors
+2026-01-19T11:13:18.207Z - info: Rebuilding 1 pages
+2026-01-19T11:13:18.384Z - info: Site data built
+2026-01-19T11:13:18.384Z - info: Pages rebuilt
+2026-01-19T11:13:18.384Z - info: Website regeneration complete! Total build time: 0.18s
+2026-01-19T11:14:06.351Z - info: Website generation started at 19:14:05
+2026-01-19T11:14:06.755Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-19T11:14:06.756Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-19T11:14:06.775Z - info: Building assets...
