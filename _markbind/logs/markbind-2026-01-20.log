@@ -1,0 +1,39 @@
+2026-01-19T16:01:02.578Z - info: [00:01:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:01:02.618Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:01:02.619Z - info: No pages are currently opened
+2026-01-19T16:01:03.633Z - info: No pages needed to be rebuilt
+2026-01-19T16:01:28.200Z - info: [00:01:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:01:28.201Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:01:28.201Z - info: No pages are currently opened
+2026-01-19T16:01:29.214Z - info: No pages needed to be rebuilt
+2026-01-19T16:01:51.649Z - info: [00:01:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:01:51.651Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:01:51.651Z - info: No pages are currently opened
+2026-01-19T16:01:52.656Z - info: No pages needed to be rebuilt
+2026-01-19T16:02:08.937Z - info: [00:02:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:02:08.938Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:02:08.938Z - info: No pages are currently opened
+2026-01-19T16:02:09.965Z - info: No pages needed to be rebuilt
+2026-01-19T16:02:14.233Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus as some of its dependencies were changed since the last visit
+2026-01-19T16:02:14.355Z - info: Site data built
+2026-01-19T16:02:14.356Z - info: Lazy website regeneration complete! Total build time: 0.123s
+2026-01-19T16:03:10.281Z - info: [00:03:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:03:10.284Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:03:10.290Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T16:03:10.290Z - info: 1. admin/syllabus
+2026-01-19T16:03:11.380Z - info: Rebuilding 1 pages
+2026-01-19T16:03:11.575Z - info: Site data built
+2026-01-19T16:03:11.575Z - info: Pages rebuilt
+2026-01-19T16:03:11.575Z - info: Website regeneration complete! Total build time: 0.199s
+2026-01-19T16:03:27.951Z - info: [00:03:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/syllabus.md
+2026-01-19T16:03:27.960Z - info: Synchronizing opened pages list before reload
+2026-01-19T16:03:27.964Z - info: Current opened pages, from most-to-least recent:
+2026-01-19T16:03:27.965Z - info: 1. admin/syllabus
+2026-01-19T16:03:28.974Z - info: Rebuilding 1 pages
+2026-01-19T16:03:29.095Z - info: Site data built
+2026-01-19T16:03:29.095Z - info: Pages rebuilt
+2026-01-19T16:03:29.095Z - info: Website regeneration complete! Total build time: 0.125s
+2026-01-19T16:04:33.746Z - info: Website generation started at 00:04:32
+2026-01-19T16:04:34.152Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-01-19T16:04:34.152Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-01-19T16:04:34.171Z - info: Building assets...
