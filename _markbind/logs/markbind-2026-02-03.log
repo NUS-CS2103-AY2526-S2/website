@@ -2,3 +2,272 @@
 2026-02-03T05:03:34.795Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
 2026-02-03T05:03:34.795Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
 2026-02-03T05:03:34.815Z - info: Building assets...
+2026-02-03T05:03:39.313Z - info: Assets built
+2026-02-03T05:03:39.322Z - info: Generating pages...
+2026-02-03T05:03:47.535Z - debug:  
+2026-02-03T05:03:47.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:48.700Z - debug:  
+2026-02-03T05:03:53.589Z - debug:  
+2026-02-03T05:03:53.609Z - debug:  
+2026-02-03T05:03:53.629Z - debug:  
+2026-02-03T05:03:53.629Z - debug:  
+2026-02-03T05:03:53.642Z - debug:  
+2026-02-03T05:03:53.688Z - debug:  
+2026-02-03T05:04:04.371Z - debug:  
+2026-02-03T05:04:49.862Z - debug:  
+2026-02-03T05:04:49.865Z - debug:  
+2026-02-03T05:05:02.746Z - debug:  
+2026-02-03T05:05:15.805Z - debug:  
+2026-02-03T05:05:15.819Z - debug:  
+2026-02-03T05:05:24.442Z - info: Pages built
+2026-02-03T05:05:24.521Z - info: Site data built
+2026-02-03T05:05:24.521Z - info: Website generation complete! Total build time: 111.796s
+2026-02-03T05:05:24.521Z - info: Build success!
+2026-02-03T05:05:50.609Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
+2026-02-03T13:26:47.390Z - info: Website generation (lazy) started at 21:26:45
+2026-02-03T13:26:48.023Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-02-03T13:26:48.023Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-02-03T13:26:48.043Z - info: Building assets...
+2026-02-03T13:26:50.742Z - info: Assets built
+2026-02-03T13:26:50.742Z - info: Generating landing page...
+2026-02-03T13:26:51.480Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-02-03T13:26:51.550Z - info: Site data built
+2026-02-03T13:26:51.550Z - info: Website generation (lazy) complete! Total build time: 5.561s
+2026-02-03T13:26:51.560Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-02-03T13:26:51.560Z - info: Press CTRL+C to stop ...
+2026-02-03T13:27:02.440Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixH-tipsFromStudents as some of its dependencies were changed since the last visit
+2026-02-03T13:27:02.671Z - info: Site data built
+2026-02-03T13:27:02.671Z - info: Lazy website regeneration complete! Total build time: 0.233s
+2026-02-03T13:33:18.128Z - info: [21:33:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:33:18.137Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:33:18.141Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:33:18.142Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:33:19.161Z - info: Rebuilding 1 pages
+2026-02-03T13:33:19.322Z - info: Site data built
+2026-02-03T13:33:19.322Z - info: Pages rebuilt
+2026-02-03T13:33:19.322Z - info: Website regeneration complete! Total build time: 0.175s
+2026-02-03T13:33:36.756Z - info: [21:33:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:33:36.756Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:33:36.757Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:33:36.758Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:33:37.767Z - info: Rebuilding 1 pages
+2026-02-03T13:33:37.902Z - info: Site data built
+2026-02-03T13:33:37.903Z - info: Pages rebuilt
+2026-02-03T13:33:37.903Z - info: Website regeneration complete! Total build time: 0.138s
+2026-02-03T13:33:44.822Z - info: [21:33:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:33:44.822Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:33:44.822Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:33:44.822Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:33:45.832Z - info: Rebuilding 1 pages
+2026-02-03T13:33:45.941Z - info: Site data built
+2026-02-03T13:33:45.941Z - info: Pages rebuilt
+2026-02-03T13:33:45.942Z - info: Website regeneration complete! Total build time: 0.112s
+2026-02-03T13:33:58.338Z - info: [21:33:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:33:58.338Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:33:58.338Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:33:58.338Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:33:59.353Z - info: Rebuilding 1 pages
+2026-02-03T13:33:59.492Z - info: Site data built
+2026-02-03T13:33:59.492Z - info: Pages rebuilt
+2026-02-03T13:33:59.492Z - info: Website regeneration complete! Total build time: 0.141s
+2026-02-03T13:34:28.324Z - info: [21:34:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:34:28.324Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:34:28.324Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:34:28.325Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:34:29.330Z - info: Rebuilding 1 pages
+2026-02-03T13:34:29.481Z - info: Site data built
+2026-02-03T13:34:29.481Z - info: Pages rebuilt
+2026-02-03T13:34:29.481Z - info: Website regeneration complete! Total build time: 0.154s
+2026-02-03T13:35:01.118Z - info: [21:35:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:35:01.119Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:35:01.119Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:35:01.119Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:35:02.135Z - info: Rebuilding 1 pages
+2026-02-03T13:35:02.275Z - info: Site data built
+2026-02-03T13:35:02.275Z - info: Pages rebuilt
+2026-02-03T13:35:02.275Z - info: Website regeneration complete! Total build time: 0.143s
+2026-02-03T13:35:30.726Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/gradeBreakdown as some of its dependencies were changed since the last visit
+2026-02-03T13:35:33.115Z - debug:  
+2026-02-03T13:35:33.154Z - info: Site data built
+2026-02-03T13:35:33.154Z - info: Lazy website regeneration complete! Total build time: 2.428s
+2026-02-03T13:36:20.632Z - info: [21:36:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:36:20.633Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:36:20.633Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:36:20.634Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:36:21.645Z - info: Rebuilding 1 pages
+2026-02-03T13:36:21.784Z - info: Site data built
+2026-02-03T13:36:21.784Z - info: Pages rebuilt
+2026-02-03T13:36:21.784Z - info: Website regeneration complete! Total build time: 0.14s
+2026-02-03T13:36:30.110Z - info: [21:36:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:36:30.111Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:36:30.112Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:36:30.112Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:36:31.116Z - info: Rebuilding 1 pages
+2026-02-03T13:36:31.268Z - info: Site data built
+2026-02-03T13:36:31.268Z - info: Pages rebuilt
+2026-02-03T13:36:31.268Z - info: Website regeneration complete! Total build time: 0.155s
+2026-02-03T13:36:41.541Z - info: [21:36:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:36:41.541Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:36:41.542Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:36:41.542Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:36:42.551Z - info: Rebuilding 1 pages
+2026-02-03T13:36:42.689Z - info: Site data built
+2026-02-03T13:36:42.689Z - info: Pages rebuilt
+2026-02-03T13:36:42.689Z - info: Website regeneration complete! Total build time: 0.139s
+2026-02-03T13:38:08.425Z - info: [21:38:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:38:08.425Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:38:08.426Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:38:08.426Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:38:09.428Z - info: Rebuilding 1 pages
+2026-02-03T13:38:09.581Z - info: Site data built
+2026-02-03T13:38:09.581Z - info: Pages rebuilt
+2026-02-03T13:38:09.581Z - info: Website regeneration complete! Total build time: 0.155s
+2026-02-03T13:38:29.816Z - info: [21:38:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:38:29.816Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:38:29.816Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:38:29.816Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:38:30.822Z - info: Rebuilding 1 pages
+2026-02-03T13:38:30.973Z - info: Site data built
+2026-02-03T13:38:30.973Z - info: Pages rebuilt
+2026-02-03T13:38:30.973Z - info: Website regeneration complete! Total build time: 0.153s
+2026-02-03T13:38:39.805Z - info: [21:38:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:38:39.805Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:38:39.805Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:38:39.805Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:38:40.813Z - info: Rebuilding 1 pages
+2026-02-03T13:38:40.963Z - info: Site data built
+2026-02-03T13:38:40.963Z - info: Pages rebuilt
+2026-02-03T13:38:40.963Z - info: Website regeneration complete! Total build time: 0.152s
+2026-02-03T13:39:00.089Z - info: [21:39:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:39:00.089Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:39:00.089Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:39:00.089Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:39:01.098Z - info: Rebuilding 1 pages
+2026-02-03T13:39:01.240Z - info: Site data built
+2026-02-03T13:39:01.240Z - info: Pages rebuilt
+2026-02-03T13:39:01.240Z - info: Website regeneration complete! Total build time: 0.144s
+2026-02-03T13:39:21.088Z - info: [21:39:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:39:21.088Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:39:21.089Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:39:21.089Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:39:22.106Z - info: Rebuilding 1 pages
+2026-02-03T13:39:22.242Z - info: Site data built
+2026-02-03T13:39:22.242Z - info: Pages rebuilt
+2026-02-03T13:39:22.242Z - info: Website regeneration complete! Total build time: 0.138s
+2026-02-03T13:40:02.259Z - info: [21:40:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:40:02.260Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:40:02.260Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:40:02.260Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:40:03.271Z - info: Rebuilding 1 pages
+2026-02-03T13:40:03.410Z - info: Site data built
+2026-02-03T13:40:03.410Z - info: Pages rebuilt
+2026-02-03T13:40:03.410Z - info: Website regeneration complete! Total build time: 0.141s
+2026-02-03T13:40:41.303Z - info: [21:40:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:40:41.303Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:40:41.303Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:40:41.304Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:40:42.313Z - info: Rebuilding 1 pages
+2026-02-03T13:40:42.466Z - info: Site data built
+2026-02-03T13:40:42.466Z - info: Pages rebuilt
+2026-02-03T13:40:42.466Z - info: Website regeneration complete! Total build time: 0.157s
+2026-02-03T13:41:37.916Z - info: [21:41:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:41:37.918Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:41:37.918Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:41:37.918Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:41:38.930Z - info: Rebuilding 1 pages
+2026-02-03T13:41:39.081Z - info: Site data built
+2026-02-03T13:41:39.081Z - info: Pages rebuilt
+2026-02-03T13:41:39.081Z - info: Website regeneration complete! Total build time: 0.153s
+2026-02-03T13:41:47.823Z - info: [21:41:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:41:47.824Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:41:47.824Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:41:47.824Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:41:48.827Z - info: Rebuilding 1 pages
+2026-02-03T13:41:48.969Z - info: Site data built
+2026-02-03T13:41:48.969Z - info: Pages rebuilt
+2026-02-03T13:41:48.969Z - info: Website regeneration complete! Total build time: 0.144s
+2026-02-03T13:42:51.600Z - info: [21:42:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:42:51.601Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:42:51.601Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:42:51.601Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:42:52.605Z - info: Rebuilding 1 pages
+2026-02-03T13:42:52.715Z - info: Site data built
+2026-02-03T13:42:52.715Z - info: Pages rebuilt
+2026-02-03T13:42:52.715Z - info: Website regeneration complete! Total build time: 0.112s
+2026-02-03T13:43:54.338Z - info: [21:43:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:43:54.340Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:43:54.340Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:43:54.340Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:43:55.350Z - info: Rebuilding 1 pages
+2026-02-03T13:43:55.497Z - info: Site data built
+2026-02-03T13:43:55.497Z - info: Pages rebuilt
+2026-02-03T13:43:55.497Z - info: Website regeneration complete! Total build time: 0.149s
+2026-02-03T13:44:23.241Z - info: [21:44:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:44:23.242Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:44:23.242Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:44:23.242Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:44:23.333Z - info: [21:44:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:44:23.333Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:44:23.333Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:44:23.333Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:44:24.244Z - info: Rebuilding 1 pages
+2026-02-03T13:44:24.373Z - info: Site data built
+2026-02-03T13:44:24.373Z - info: Pages rebuilt
+2026-02-03T13:44:24.373Z - info: Website regeneration complete! Total build time: 0.131s
+2026-02-03T13:47:22.419Z - info: [21:47:22] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:47:22.420Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:47:22.421Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:47:22.421Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:47:23.436Z - info: Rebuilding 1 pages
+2026-02-03T13:47:23.591Z - info: Site data built
+2026-02-03T13:47:23.592Z - info: Pages rebuilt
+2026-02-03T13:47:23.592Z - info: Website regeneration complete! Total build time: 0.158s
+2026-02-03T13:47:35.269Z - info: [21:47:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:47:35.270Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:47:35.270Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:47:35.270Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:47:36.276Z - info: Rebuilding 1 pages
+2026-02-03T13:47:36.424Z - info: Site data built
+2026-02-03T13:47:36.424Z - info: Pages rebuilt
+2026-02-03T13:47:36.424Z - info: Website regeneration complete! Total build time: 0.15s
+2026-02-03T13:48:04.346Z - info: [21:48:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:48:04.347Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:48:04.347Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:48:04.347Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:48:05.364Z - info: Rebuilding 1 pages
+2026-02-03T13:48:05.505Z - info: Site data built
+2026-02-03T13:48:05.505Z - info: Pages rebuilt
+2026-02-03T13:48:05.505Z - info: Website regeneration complete! Total build time: 0.144s
+2026-02-03T13:48:15.026Z - info: [21:48:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:48:15.026Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:48:15.026Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:48:15.026Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:48:16.031Z - info: Rebuilding 1 pages
+2026-02-03T13:48:16.180Z - info: Site data built
+2026-02-03T13:48:16.180Z - info: Pages rebuilt
+2026-02-03T13:48:16.180Z - info: Website regeneration complete! Total build time: 0.151s
+2026-02-03T13:48:34.732Z - info: [21:48:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tips-from-students-fragment.md
+2026-02-03T13:48:34.733Z - info: Synchronizing opened pages list before reload
+2026-02-03T13:48:34.733Z - info: Current opened pages, from most-to-least recent:
+2026-02-03T13:48:34.733Z - info: 1. admin/appendixH-tipsFromStudents
+2026-02-03T13:48:35.751Z - info: Rebuilding 1 pages
+2026-02-03T13:48:35.884Z - info: Site data built
+2026-02-03T13:48:35.885Z - info: Pages rebuilt
+2026-02-03T13:48:35.885Z - info: Website regeneration complete! Total build time: 0.135s
+2026-02-03T13:48:48.157Z - info: Website generation started at 21:48:47
+2026-02-03T13:48:48.549Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
+2026-02-03T13:48:48.549Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
+2026-02-03T13:48:48.569Z - info: Building assets...
