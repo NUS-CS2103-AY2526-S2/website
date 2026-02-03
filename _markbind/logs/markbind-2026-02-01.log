@@ -80,3 +80,38 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2026-02-01T12:40:56.010Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/book/_markbind/variables.md'
 2026-02-01T12:40:56.010Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!NUS-CS2103-AY2526-S2!website.git/_markbind/variables.md'
 2026-02-01T12:40:56.042Z - info: Building assets...
+2026-02-01T12:41:00.540Z - info: Assets built
+2026-02-01T12:41:00.544Z - info: Generating pages...
+2026-02-01T12:41:14.054Z - debug:  
+2026-02-01T12:41:14.054Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:14.055Z - debug:  
+2026-02-01T12:41:19.169Z - debug:  
+2026-02-01T12:41:19.435Z - debug:  
+2026-02-01T12:41:19.713Z - debug:  
+2026-02-01T12:41:19.721Z - debug:  
+2026-02-01T12:41:19.726Z - debug:  
+2026-02-01T12:41:19.809Z - debug:  
+2026-02-01T12:41:32.684Z - debug:  
+2026-02-01T12:42:20.215Z - debug:  
+2026-02-01T12:42:20.215Z - debug:  
+2026-02-01T12:42:32.007Z - debug:  
+2026-02-01T12:42:45.316Z - debug:  
+2026-02-01T12:42:45.330Z - debug:  
+2026-02-01T12:42:54.390Z - info: Pages built
+2026-02-01T12:42:54.469Z - info: Site data built
+2026-02-01T12:42:54.469Z - info: Website generation complete! Total build time: 120.041s
+2026-02-01T12:42:54.469Z - info: Build success!
+2026-02-01T12:56:00.536Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
