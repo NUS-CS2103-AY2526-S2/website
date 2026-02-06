@@ -60,7 +60,7 @@
   },
   "enableSearch": false,
   "headingIndexingLevel": 5,
-  "plugins": ["filterTags", "googleAnalytics", "algolia", "codeBlockCopyButtons", "codeBlockWrapButtons", "dataTable", "mermaid"],
+  "plugins": ["customviews", "filterTags", "googleAnalytics", "algolia", "codeBlockCopyButtons", "codeBlockWrapButtons", "dataTable", "mermaid"],
   "pluginsContext": {
     "filterTags" : {
       "tags": ["m--cs2103", "git-mastery"]

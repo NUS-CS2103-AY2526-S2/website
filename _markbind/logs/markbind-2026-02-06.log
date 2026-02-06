@@ -74,3 +74,38 @@
 2026-02-06T09:06:04.862Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
 2026-02-06T11:10:59.387Z - info: Website generation started at 19:10:58
 2026-02-06T11:10:59.946Z - info: Building assets...
+2026-02-06T11:11:01.558Z - info: Assets built
+2026-02-06T11:11:01.559Z - info: Generating pages...
+2026-02-06T11:11:09.257Z - debug:  
+2026-02-06T11:11:09.257Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:09.258Z - debug:  
+2026-02-06T11:11:12.283Z - debug:  
+2026-02-06T11:11:12.309Z - debug:  
+2026-02-06T11:11:12.365Z - debug:  
+2026-02-06T11:11:12.372Z - debug:  
+2026-02-06T11:11:12.437Z - debug:  
+2026-02-06T11:11:12.463Z - debug:  
+2026-02-06T11:11:24.608Z - debug:  
+2026-02-06T11:12:15.201Z - debug:  
+2026-02-06T11:12:15.202Z - debug:  
+2026-02-06T11:12:24.162Z - debug:  
+2026-02-06T11:12:40.477Z - debug:  
+2026-02-06T11:12:40.882Z - debug:  
+2026-02-06T11:12:49.793Z - info: Pages built
+2026-02-06T11:12:49.876Z - info: Site data built
+2026-02-06T11:12:49.876Z - info: Website generation complete! Total build time: 111.258s
+2026-02-06T11:12:49.876Z - info: Build success!
+2026-02-06T11:13:17.503Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
