@@ -207,3 +207,60 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2026-02-18T18:50:17.498Z - info: Lazy website regeneration complete! Total build time: 0.217s
 2026-02-18T18:51:00.910Z - info: Website generation started at 02:51:00
 2026-02-18T18:51:01.446Z - info: Building assets...
+2026-02-18T18:51:03.388Z - info: Assets built
+2026-02-18T18:51:03.388Z - info: Generating pages...
+2026-02-18T18:51:12.366Z - debug:  
+2026-02-18T18:51:12.366Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:13.439Z - debug:  
+2026-02-18T18:51:15.571Z - debug:  
+2026-02-18T18:51:15.881Z - debug:  
+2026-02-18T18:51:15.905Z - debug:  
+2026-02-18T18:51:15.926Z - debug:  
+2026-02-18T18:51:15.952Z - debug:  
+2026-02-18T18:51:15.959Z - debug:  
+2026-02-18T18:51:26.609Z - debug:  
+2026-02-18T18:52:13.642Z - debug:  
+2026-02-18T18:52:13.643Z - debug:  
+2026-02-18T18:52:25.793Z - debug:  
+2026-02-18T18:52:39.769Z - debug:  
+2026-02-18T18:52:39.801Z - debug:  
+2026-02-18T18:52:48.741Z - info: Pages built
+2026-02-18T18:52:48.819Z - info: Site data built
+2026-02-18T18:52:48.819Z - info: Website generation complete! Total build time: 108.614s
+2026-02-18T18:52:48.819Z - info: Build success!
+2026-02-18T18:53:13.998Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
+2026-02-19T05:17:19.492Z - info: Website generation (lazy) started at 13:17:18
+2026-02-19T05:17:20.003Z - info: Building assets...
+2026-02-19T05:17:21.855Z - info: Assets built
+2026-02-19T05:17:21.855Z - info: Generating landing page...
+2026-02-19T05:17:22.373Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-02-19T05:17:22.447Z - info: Site data built
+2026-02-19T05:17:22.447Z - info: Website generation (lazy) complete! Total build time: 4.054s
+2026-02-19T05:17:22.461Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-02-19T05:17:22.461Z - info: Press CTRL+C to stop ...
+2026-02-19T05:17:28.699Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week6/project as some of its dependencies were changed since the last visit
+2026-02-19T05:17:30.159Z - info: Site data built
+2026-02-19T05:17:30.159Z - info: Lazy website regeneration complete! Total build time: 1.461s
+2026-02-19T05:18:07.260Z - info: [13:18:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-tasks-fragment.md
+2026-02-19T05:18:07.262Z - info: Synchronizing opened pages list before reload
+2026-02-19T05:18:07.263Z - info: Current opened pages, from most-to-least recent:
+2026-02-19T05:18:07.264Z - info: 1. schedule/week6/project
+2026-02-19T05:18:08.271Z - info: Rebuilding 1 pages
+2026-02-19T05:18:09.714Z - info: Site data built
+2026-02-19T05:18:09.714Z - info: Pages rebuilt
+2026-02-19T05:18:09.714Z - info: Website regeneration complete! Total build time: 1.447s
+2026-02-19T05:19:13.396Z - info: Website generation started at 13:19:12
+2026-02-19T05:19:13.721Z - info: Building assets...
