@@ -329,3 +329,71 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2026-02-19T09:07:39.575Z - info: Website regeneration complete! Total build time: 0.151s
 2026-02-19T09:08:43.089Z - info: Website generation started at 17:08:42
 2026-02-19T09:08:43.501Z - info: Building assets...
+2026-02-19T09:08:45.228Z - info: Assets built
+2026-02-19T09:08:45.229Z - info: Generating pages...
+2026-02-19T09:08:53.198Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:53.199Z - debug:  
+2026-02-19T09:08:56.528Z - debug:  
+2026-02-19T09:08:56.725Z - debug:  
+2026-02-19T09:08:56.729Z - debug:  
+2026-02-19T09:08:56.786Z - debug:  
+2026-02-19T09:08:56.817Z - debug:  
+2026-02-19T09:08:56.823Z - debug:  
+2026-02-19T09:09:07.754Z - debug:  
+2026-02-19T09:09:54.618Z - debug:  
+2026-02-19T09:09:54.618Z - debug:  
+2026-02-19T09:10:06.348Z - debug:  
+2026-02-19T09:10:20.357Z - debug:  
+2026-02-19T09:10:20.381Z - debug:  
+2026-02-19T09:10:30.433Z - info: Pages built
+2026-02-19T09:10:30.518Z - info: Site data built
+2026-02-19T09:10:30.518Z - info: Website generation complete! Total build time: 108.075s
+2026-02-19T09:10:30.518Z - info: Build success!
+2026-02-19T09:10:57.714Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
+2026-02-19T12:25:45.005Z - info: Website generation (lazy) started at 20:25:44
+2026-02-19T12:25:45.596Z - info: Building assets...
+2026-02-19T12:25:47.396Z - info: Assets built
+2026-02-19T12:25:47.400Z - info: Generating landing page...
+2026-02-19T12:25:47.912Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-02-19T12:25:47.990Z - info: Site data built
+2026-02-19T12:25:47.991Z - info: Website generation (lazy) complete! Total build time: 3.848s
+2026-02-19T12:25:48.002Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-02-19T12:25:48.003Z - info: Press CTRL+C to stop ...
+2026-02-19T12:25:54.399Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/index as some of its dependencies were changed since the last visit
+2026-02-19T12:25:54.852Z - info: Site data built
+2026-02-19T12:25:54.852Z - info: Lazy website regeneration complete! Total build time: 0.454s
+2026-02-19T12:25:57.070Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/project as some of its dependencies were changed since the last visit
+2026-02-19T12:25:58.535Z - info: Site data built
+2026-02-19T12:25:58.536Z - info: Lazy website regeneration complete! Total build time: 1.467s
+2026-02-19T12:26:21.975Z - info: [20:26:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-tasks-fragment.md
+2026-02-19T12:26:21.977Z - info: Synchronizing opened pages list before reload
+2026-02-19T12:26:21.978Z - info: Current opened pages, from most-to-least recent:
+2026-02-19T12:26:21.978Z - info: 1. schedule/week7/project
+2026-02-19T12:26:22.987Z - info: Rebuilding 1 pages
+2026-02-19T12:26:24.217Z - info: Site data built
+2026-02-19T12:26:24.217Z - info: Pages rebuilt
+2026-02-19T12:26:24.217Z - info: Website regeneration complete! Total build time: 1.236s
+2026-02-19T12:26:47.552Z - info: [20:26:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-tasks-fragment.md
+2026-02-19T12:26:47.563Z - info: Synchronizing opened pages list before reload
+2026-02-19T12:26:47.566Z - info: Current opened pages, from most-to-least recent:
+2026-02-19T12:26:47.568Z - info: 1. schedule/week7/project
+2026-02-19T12:26:48.582Z - info: Rebuilding 1 pages
+2026-02-19T12:26:49.867Z - info: Site data built
+2026-02-19T12:26:49.868Z - info: Pages rebuilt
+2026-02-19T12:26:49.868Z - info: Website regeneration complete! Total build time: 1.292s
+2026-02-19T12:27:54.265Z - info: Website generation started at 20:27:53
+2026-02-19T12:27:54.589Z - info: Building assets...
