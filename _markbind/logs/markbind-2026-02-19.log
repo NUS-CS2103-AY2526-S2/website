@@ -397,3 +397,38 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2026-02-19T12:26:49.868Z - info: Website regeneration complete! Total build time: 1.292s
 2026-02-19T12:27:54.265Z - info: Website generation started at 20:27:53
 2026-02-19T12:27:54.589Z - info: Building assets...
+2026-02-19T12:27:56.373Z - info: Assets built
+2026-02-19T12:27:56.378Z - info: Generating pages...
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.839Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:05.840Z - debug:  
+2026-02-19T12:28:08.569Z - debug:  
+2026-02-19T12:28:08.585Z - debug:  
+2026-02-19T12:28:08.595Z - debug:  
+2026-02-19T12:28:08.602Z - debug:  
+2026-02-19T12:28:08.633Z - debug:  
+2026-02-19T12:28:08.649Z - debug:  
+2026-02-19T12:28:18.500Z - debug:  
+2026-02-19T12:29:08.721Z - debug:  
+2026-02-19T12:29:08.722Z - debug:  
+2026-02-19T12:29:20.409Z - debug:  
+2026-02-19T12:29:34.279Z - debug:  
+2026-02-19T12:29:34.454Z - debug:  
+2026-02-19T12:29:44.809Z - info: Pages built
+2026-02-19T12:29:44.894Z - info: Site data built
+2026-02-19T12:29:44.894Z - info: Website generation complete! Total build time: 111.214s
+2026-02-19T12:29:44.894Z - info: Build success!
+2026-02-19T12:30:11.883Z - info: The website has been deployed at: https://nus-cs2103-ay2526-s2.github.io/website
