@@ -1,0 +1,17 @@
+{
+  "config": {
+    "placeholders": [
+      { "name": "username", "settingsLabel": "Your GitHub Username", "settingsHint": "e.g., JohnDoe" },
+      { "name": "studentIdSuffix", "settingsLabel": "Last five characters of your student ID", "settingsHint": "e.g., 4567X" },
+      { "name": "tutorialId", "settingsLabel": "Your Tutorial ID", "settingsHint": "e.g., CS2103T-W15" },
+      { "name": "teamId", "settingsLabel": "Your Team ID", "settingsHint": "e.g., CS2103T-W15-1"},
+      { "name": "productName", "settingsLabel": "Name of your tP product", "settingsHint": "e.g., ContactsPro"}
+    ]
+  },
+  "storageKey": "cs21_3-website",
+  "baseUrl": "/website",
+  "settings": {
+    "enabled": true
+  },
+  "showUrl": false
+}
