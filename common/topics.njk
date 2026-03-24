@@ -256,7 +256,7 @@
 {% macro show_week_schedule(week_num, entries, path_displacement="") %}
 {% if week_num + "" in weeks_with_no_topics %}
 
-%%No topics assigned to this week.%%
+%%[[ name ? Good news, $! : ]] No topics assigned to this week.%%
 {% else %}
 <panel type="seamless" header="%%:fas-list-ol: Detailed Table of Contents%%">
 <span id="toc">
