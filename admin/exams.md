@@ -121,10 +121,10 @@ Deadline to complete the compatibility check (including liaising with CIT): #r#a
 ### Final exam - part 1
 
 * You will be asked to draw some UML diagrams, **to be hand-drawn on paper** (not on a tablet).<br>
-  You may use pencils if you wish.
+  You may use pencils if you wish.<br>
+  Blank papers for this will be provided to you during the exam.
 * Duration: 20 minutes
 * The questions will be in Examplify.
-* **Bring 1-2 sheets of A4 size papers when you come to the exam**, for drawing these diagrams.
 * These diagrams will not be graded directly. Instead, you will use them when answering part 2 of the exam.<br>
   However, we may use the diagrams to give _some_ consolation marks should you score very low in the corresponding MCQ questions.<br>
   For that purpose, the papers will be collected at the end of the full exam (i.e., after part 2 is over).

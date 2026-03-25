@@ -1647,7 +1647,7 @@ This is a good time to get familiar with the diagramming tools used by the tP.
 <span id="heading_deliver_the_alpha_version">{{ icon_team }} Deliver the alpha version (`{{ version_alpha }}`)</span>
 <div id="desc_deliver_the_alpha_version">
 
-{% if cs2103 %}{% call show_caution("Be vary of auto-sizing app windows.") %}
+{% if cs2103 %}{% call show_caution("Be wary of auto-sizing app windows.") %}
 If you set the app to auto-size to a specific size at launch, it can go out of screen in smaller screens or at lower resolution, with no way to close or resize it, rendering it unusable.
 {% endcall %}{% endif %}
 
@@ -1767,7 +1767,7 @@ In addition,
 
 <box type="important" seamless>
 
-#r#Do this before the feature freeze begins## (i.e., Friday 10am). Any changes done after that will be subjected to the limits of the feature freeze.
+#r#Do this before the feature freeze begins## (i.e., PE Dry Run day, 10am). Any changes done after that will be subjected to the limits of the feature freeze.
 </box>
 
 * **Ensure your code is <tooltip content="i.e., RepoSense can detect your code as yours">RepoSense-compatible</tooltip>** and the **code it attributes to you is indeed the code written by you**, as explained below:
@@ -2001,6 +2001,14 @@ The panel below contains guidelines your peers will use when determining bugs in
 <span id="heading_release_as_a_jar_file">{{ icon_team }} Release {{ version_penultimate }}</span>
 <div id="desc_release_as_a_jar_file">
 
+{% if ped_week != "11" %}
+<box type="important" seamless>
+
+**There is a buffer of seven days** for `{{ version_penultimate }}` i.e., you may take up to {{ get_date(date_w11_start, 10, time="23:59")}}. This buffer has been added due to clashes between university/public holidays and important events in the iP timeline. We recommend you do only one week worth of tP work although there are two weeks to do it in, as this buffer is 'extra' time not usually in the tP timeline (we do not expect extra work for this extra time given).
+
+</box>
+{% endif %}
+
 * {{ icon_important_big_red }} **Do a <tooltip content="resulting in a jar file on GitHub that can be downloaded by potential users">proper product release</tooltip>** [as described in the Developer Guide]({{ url_ab3_fork_website }}/DevOps.html#making-a-release). Do the release by the given deadline. <br>
   ==Do a smoke-test to ensure the jar file works== (if the released jar file is broken, it will be omitted from the PE-D).<br>
   * Include the following files in the release (as separate assets):
@@ -2009,7 +2017,7 @@ The panel below contains guidelines your peers will use when determining bugs in
     1. **DG** (PDF file) -- similar to the UG
   * You may choose any suitable filename, but recommended not to have spaces or special characters in the JAR file name.
   * It is optional to write detailed release notes for this version.
-* **You can do an _additional_ release before the [PE dry run (PE-D)](tp-ped.html)** if you wish, as long as you do it <span class="text-danger">before 10 am Friday</span>. {% if cs2103 %}That additional release is still considered part of {{ version_penultimate }} and therefore, not subjected to the feature freeze.{% endif %} When doing this additional release, do not delete the previous release %%(reason: it is good to preserve the release history)%% -- testers are expected to test the latest release file anyway. You may use any suitable version number for this JAR file e.g., `{{ version_penultimate }}.1`.<br>
+* **You can do an _additional_ release before the [PE dry run (PE-D)](tp-ped.html)** if you wish, as long as you do it <span class="text-danger">before 10 on the PE-D day</span>. {% if cs2103 %}That additional release is still considered part of {{ version_penultimate }} and therefore, not subjected to the feature freeze.{% endif %} When doing this additional release, do not delete the previous release %%(reason: it is good to preserve the release history)%% -- testers are expected to test the latest release file anyway. You may use any suitable version number for this JAR file e.g., `{{ version_penultimate }}.1`.<br>
   Waiting till Friday 10am to release the `{{ version_penultimate }}` is strongly discouraged because if you miss that deadline, your team will not be able to benefit from the PE-D at all. It is better to have an earlier release to fall back on in case that happens.
 * As before, wrap up the milestone %%(i.e., reschedule/close any remaining issues/PRs and close the milestone).%%
 

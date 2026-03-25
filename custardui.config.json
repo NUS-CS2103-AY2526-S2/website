@@ -1,7 +1,8 @@
 {
   "config": {
     "placeholders": [
-      { "name": "username", "settingsLabel": "Your GitHub Username", "settingsHint": "e.g., JohnDoe" },
+      { "name": "name", "settingsLabel": "Your short name", "settingsHint": "e.g., Jane" },
+      { "name": "username", "settingsLabel": "Your GitHub Username", "settingsHint": "e.g., JaneDoe" },
       { "name": "studentIdSuffix", "settingsLabel": "Last five characters of your student ID", "settingsHint": "e.g., 4567X" },
       { "name": "tutorialId", "settingsLabel": "Your Tutorial ID", "settingsHint": "e.g., CS2103T-W15" },
       { "name": "teamId", "settingsLabel": "Your Team ID", "settingsHint": "e.g., CS2103T-W15-1"},

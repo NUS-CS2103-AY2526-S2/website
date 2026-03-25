@@ -94,7 +94,7 @@ week11: [
   {id: 'fix_alpha_test_bugs'},
   {id: 'update_ug_dg'},
   {id: 'settle_code_authorship'},
-  {id: 'release_as_a_jar_file', deadline: get_date(date_w11_start, 3, time="23:59")}
+  {id: 'release_as_a_jar_file', deadline: get_date(date_w11_start, 3, time="23:59") + " + (a buffer of 7 days)"}
 ],
 week12: week12_tasks,
 week13: week13_tasks
