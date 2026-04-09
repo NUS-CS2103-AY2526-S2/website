@@ -1,0 +1,25 @@
+2026-04-07T17:05:28.681Z - [32minfo[39m: Website generation (lazy) started at 01:05:27
+2026-04-07T17:05:29.236Z - [32minfo[39m: Building assets...
+2026-04-07T17:05:30.579Z - [32minfo[39m: Assets built
+2026-04-07T17:05:30.580Z - [32minfo[39m: Generating landing page...
+2026-04-07T17:05:30.903Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index.md
+2026-04-07T17:05:30.922Z - [32minfo[39m: Landing page built, other pages will be built as you navigate to them!
+2026-04-07T17:05:30.991Z - [32minfo[39m: Site data built
+2026-04-07T17:05:30.992Z - [32minfo[39m: Website generation (lazy) complete! Total build time: 3.081s
+2026-04-07T17:05:31.002Z - [32minfo[39m: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-04-07T17:05:31.002Z - [32minfo[39m: Press CTRL+C to stop ...
+2026-04-07T17:05:51.270Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped as some of its dependencies were changed since the last visit
+2026-04-07T17:05:53.603Z - [34mdebug[39m: 
+2026-04-07T17:05:53.826Z - [34mdebug[39m: 
+2026-04-07T17:05:53.923Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped.md
+2026-04-07T17:05:53.996Z - [32minfo[39m: Site data built
+2026-04-07T17:05:53.996Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 2.727s
+2026-04-07T17:50:25.735Z - [32minfo[39m: [01:50:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped-fragment.md
+2026-04-07T17:50:25.761Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-07T17:50:25.778Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-07T17:50:25.783Z - [32minfo[39m: 1. admin/tp-ped
+2026-04-07T17:50:26.817Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-07T17:50:27.898Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped.md
+2026-04-07T17:50:27.936Z - [32minfo[39m: Site data built
+2026-04-07T17:50:27.936Z - [32minfo[39m: Pages rebuilt
+2026-04-07T17:50:27.936Z - [32minfo[39m: Website regeneration complete! Total build time: 1.133s
