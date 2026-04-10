@@ -1,0 +1,20 @@
+2026-04-10T05:38:00.846Z - [32minfo[39m: Website generation (lazy) started at 13:38:00
+2026-04-10T05:38:01.394Z - [32minfo[39m: Building assets...
+2026-04-10T05:38:02.645Z - [32minfo[39m: Assets built
+2026-04-10T05:38:02.645Z - [32minfo[39m: Generating landing page...
+2026-04-10T05:38:02.991Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index.md
+2026-04-10T05:38:03.013Z - [32minfo[39m: Landing page built, other pages will be built as you navigate to them!
+2026-04-10T05:38:03.087Z - [32minfo[39m: Site data built
+2026-04-10T05:38:03.087Z - [32minfo[39m: Website generation (lazy) complete! Total build time: 2.977s
+2026-04-10T05:38:03.098Z - [32minfo[39m: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-04-10T05:38:03.098Z - [32minfo[39m: Press CTRL+C to stop ...
+2026-04-10T05:38:42.037Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/index as some of its dependencies were changed since the last visit
+2026-04-10T05:38:42.424Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/index.md
+2026-04-10T05:38:42.439Z - [32minfo[39m: Site data built
+2026-04-10T05:38:42.439Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.403s
+2026-04-10T05:39:42.485Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams as some of its dependencies were changed since the last visit
+2026-04-10T05:39:42.885Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2026-04-10T05:39:42.907Z - [32minfo[39m: Site data built
+2026-04-10T05:39:42.908Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.424s
+2026-04-10T05:40:23.505Z - [32minfo[39m: Website generation started at 13:40:22
+2026-04-10T05:40:24.229Z - [32minfo[39m: Building assets...
