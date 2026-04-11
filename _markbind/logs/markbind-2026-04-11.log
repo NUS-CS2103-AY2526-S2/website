@@ -1,0 +1,30 @@
+2026-04-11T04:27:20.374Z - [32minfo[39m: Website generation (lazy) started at 12:27:19
+2026-04-11T04:27:20.871Z - [32minfo[39m: Building assets...
+2026-04-11T04:27:22.205Z - [32minfo[39m: Assets built
+2026-04-11T04:27:22.206Z - [32minfo[39m: Generating landing page...
+2026-04-11T04:27:22.664Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index.md
+2026-04-11T04:27:22.689Z - [32minfo[39m: Landing page built, other pages will be built as you navigate to them!
+2026-04-11T04:27:22.782Z - [32minfo[39m: Site data built
+2026-04-11T04:27:22.782Z - [32minfo[39m: Website generation (lazy) complete! Total build time: 3.214s
+2026-04-11T04:27:22.798Z - [32minfo[39m: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-04-11T04:27:22.799Z - [32minfo[39m: Press CTRL+C to stop ...
+2026-04-11T04:27:36.433Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/admin as some of its dependencies were changed since the last visit
+2026-04-11T04:27:36.703Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/admin.md
+2026-04-11T04:27:36.715Z - [32minfo[39m: Site data built
+2026-04-11T04:27:36.715Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.283s
+2026-04-11T04:27:44.586Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/topics as some of its dependencies were changed since the last visit
+2026-04-11T04:27:44.729Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/topics.md
+2026-04-11T04:27:44.742Z - [32minfo[39m: Site data built
+2026-04-11T04:27:44.742Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.157s
+2026-04-11T04:27:48.006Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/project as some of its dependencies were changed since the last visit
+2026-04-11T04:27:51.595Z - [34mdebug[39m: 
+2026-04-11T04:27:51.596Z - [34mdebug[39m: 
+2026-04-11T04:27:51.692Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/project.md
+2026-04-11T04:27:51.752Z - [32minfo[39m: Site data built
+2026-04-11T04:27:51.752Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 3.747s
+2026-04-11T04:28:05.429Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/tutorial as some of its dependencies were changed since the last visit
+2026-04-11T04:28:05.650Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week13/tutorial.md
+2026-04-11T04:28:05.661Z - [32minfo[39m: Site data built
+2026-04-11T04:28:05.661Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.232s
+2026-04-11T04:28:25.709Z - [32minfo[39m: Website generation started at 12:28:25
+2026-04-11T04:28:26.175Z - [32minfo[39m: Building assets...
