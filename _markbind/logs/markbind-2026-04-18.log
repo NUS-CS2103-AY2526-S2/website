@@ -1,0 +1,72 @@
+2026-04-17T18:00:08.347Z - [32minfo[39m: Website generation (lazy) started at 02:00:07
+2026-04-17T18:00:09.052Z - [32minfo[39m: Building assets...
+2026-04-17T18:00:10.423Z - [32minfo[39m: Assets built
+2026-04-17T18:00:10.423Z - [32minfo[39m: Generating landing page...
+2026-04-17T18:00:10.875Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index.md
+2026-04-17T18:00:10.894Z - [32minfo[39m: Landing page built, other pages will be built as you navigate to them!
+2026-04-17T18:00:10.965Z - [32minfo[39m: Site data built
+2026-04-17T18:00:10.965Z - [32minfo[39m: Website generation (lazy) complete! Total build time: 3.221s
+2026-04-17T18:00:10.978Z - [32minfo[39m: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-04-17T18:00:10.979Z - [32minfo[39m: Press CTRL+C to stop ...
+2026-04-17T18:00:16.526Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe as some of its dependencies were changed since the last visit
+2026-04-17T18:00:19.830Z - [34mdebug[39m: 
+2026-04-17T18:00:19.844Z - [34mdebug[39m: 
+2026-04-17T18:00:19.845Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:00:19.985Z - [32minfo[39m: Site data built
+2026-04-17T18:00:19.985Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 3.459s
+2026-04-17T18:02:30.259Z - [32minfo[39m: [02:02:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:02:30.288Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:02:30.306Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:02:30.307Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:02:31.331Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:02:32.488Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:02:32.538Z - [32minfo[39m: Site data built
+2026-04-17T18:02:32.538Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:02:32.538Z - [32minfo[39m: Website regeneration complete! Total build time: 1.224s
+2026-04-17T18:03:15.899Z - [32minfo[39m: [02:03:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:03:15.901Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:03:15.901Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:03:15.901Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:03:16.907Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:03:17.945Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:03:18.231Z - [32minfo[39m: Site data built
+2026-04-17T18:03:18.231Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:03:18.231Z - [32minfo[39m: Website regeneration complete! Total build time: 1.328s
+2026-04-17T18:06:00.639Z - [32minfo[39m: [02:06:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:06:00.645Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:06:00.647Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:06:00.647Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:06:01.668Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:06:02.639Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:06:02.691Z - [32minfo[39m: Site data built
+2026-04-17T18:06:02.691Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:06:02.692Z - [32minfo[39m: Website regeneration complete! Total build time: 1.039s
+2026-04-17T18:06:10.294Z - [32minfo[39m: [02:06:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:06:10.296Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:06:10.299Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:06:10.299Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:06:11.308Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:06:12.328Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:06:12.380Z - [32minfo[39m: Site data built
+2026-04-17T18:06:12.380Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:06:12.380Z - [32minfo[39m: Website regeneration complete! Total build time: 1.074s
+2026-04-17T18:06:33.509Z - [32minfo[39m: [02:06:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:06:33.510Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:06:33.511Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:06:33.511Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:06:34.521Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:06:35.534Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:06:35.578Z - [32minfo[39m: Site data built
+2026-04-17T18:06:35.578Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:06:35.578Z - [32minfo[39m: Website regeneration complete! Total build time: 1.062s
+2026-04-17T18:07:24.837Z - [32minfo[39m: [02:07:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-04-17T18:07:24.846Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-04-17T18:07:24.847Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-04-17T18:07:24.847Z - [32minfo[39m: 1. admin/tp-pe
+2026-04-17T18:07:25.853Z - [32minfo[39m: Rebuilding 1 pages
+2026-04-17T18:07:26.829Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-04-17T18:07:26.878Z - [32minfo[39m: Site data built
+2026-04-17T18:07:26.878Z - [32minfo[39m: Pages rebuilt
+2026-04-17T18:07:26.878Z - [32minfo[39m: Website regeneration complete! Total build time: 1.029s
+2026-04-17T18:16:56.209Z - [32minfo[39m: Website generation started at 02:16:55
+2026-04-17T18:16:56.582Z - [32minfo[39m: Building assets...
