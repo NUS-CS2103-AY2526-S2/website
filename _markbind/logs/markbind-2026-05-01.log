@@ -1,0 +1,70 @@
+2026-05-01T04:19:31.348Z - [32minfo[39m: Website generation (lazy) started at 12:19:30
+2026-05-01T04:19:31.901Z - [32minfo[39m: Building assets...
+2026-05-01T04:19:33.565Z - [32minfo[39m: Assets built
+2026-05-01T04:19:33.567Z - [32minfo[39m: Generating landing page...
+2026-05-01T04:19:33.995Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index.md
+2026-05-01T04:19:34.013Z - [32minfo[39m: Landing page built, other pages will be built as you navigate to them!
+2026-05-01T04:19:34.078Z - [32minfo[39m: Site data built
+2026-05-01T04:19:34.079Z - [32minfo[39m: Website generation (lazy) complete! Total build time: 3.37s
+2026-05-01T04:19:34.087Z - [32minfo[39m: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2026-05-01T04:19:34.087Z - [32minfo[39m: Press CTRL+C to stop ...
+2026-05-01T04:19:39.480Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2026-05-01T04:19:39.644Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index.md
+2026-05-01T04:19:39.657Z - [32minfo[39m: Site data built
+2026-05-01T04:19:39.657Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 0.179s
+2026-05-01T04:19:57.741Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling as some of its dependencies were changed since the last visit
+2026-05-01T04:20:01.689Z - [34mdebug[39m: 
+2026-05-01T04:20:01.946Z - [34mdebug[39m: 
+2026-05-01T04:20:02.119Z - [34mdebug[39m: 
+2026-05-01T04:20:02.171Z - [34mdebug[39m: 
+2026-05-01T04:20:02.270Z - [34mdebug[39m: 
+2026-05-01T04:20:02.271Z - [34mdebug[39m: 
+2026-05-01T04:20:02.300Z - [34mdebug[39m: 
+2026-05-01T04:20:02.376Z - [34mdebug[39m: 
+2026-05-01T04:20:02.376Z - [34mdebug[39m: 
+2026-05-01T04:20:02.380Z - [34mdebug[39m: 
+2026-05-01T04:20:02.384Z - [34mdebug[39m: 
+2026-05-01T04:20:02.384Z - [34mdebug[39m: 
+2026-05-01T04:20:02.387Z - [34mdebug[39m: 
+2026-05-01T04:20:02.404Z - [34mdebug[39m: 
+2026-05-01T04:20:02.406Z - [34mdebug[39m: 
+2026-05-01T04:20:02.471Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling.md
+2026-05-01T04:20:02.546Z - [32minfo[39m: Site data built
+2026-05-01T04:20:02.546Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 4.806s
+2026-05-01T04:22:36.680Z - [32minfo[39m: [12:22:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/activityDiagrams/basicNotations/alternatePaths/text.md
+2026-05-01T04:22:36.687Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-05-01T04:22:36.692Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-05-01T04:22:36.693Z - [32minfo[39m: 1. se-book-adapted/chapters/modeling
+2026-05-01T04:22:37.703Z - [32minfo[39m: Rebuilding 1 pages
+2026-05-01T04:22:38.400Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling.md
+2026-05-01T04:22:38.450Z - [32minfo[39m: Site data built
+2026-05-01T04:22:38.450Z - [32minfo[39m: Pages rebuilt
+2026-05-01T04:22:38.450Z - [32minfo[39m: Website regeneration complete! Total build time: 0.751s
+2026-05-01T04:23:50.887Z - [32minfo[39m: [12:23:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/uml/activityDiagrams/basicNotations/alternatePaths/text.md
+2026-05-01T04:23:50.888Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-05-01T04:23:50.889Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-05-01T04:23:50.890Z - [32minfo[39m: 1. se-book-adapted/chapters/modeling
+2026-05-01T04:23:51.893Z - [32minfo[39m: Rebuilding 1 pages
+2026-05-01T04:23:52.738Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling.md
+2026-05-01T04:23:52.777Z - [32minfo[39m: Site data built
+2026-05-01T04:23:52.777Z - [32minfo[39m: Pages rebuilt
+2026-05-01T04:23:52.777Z - [32minfo[39m: Website regeneration complete! Total build time: 0.886s
+2026-05-01T09:42:03.993Z - [32minfo[39m: [17:42:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-05-01T09:42:04.011Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-05-01T09:42:04.014Z - [32minfo[39m: No pages are currently opened
+2026-05-01T09:42:05.077Z - [32minfo[39m: Assets built
+2026-05-01T09:42:28.420Z - [32minfo[39m: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe as some of its dependencies were changed since the last visit
+2026-05-01T09:42:30.884Z - [34mdebug[39m: 
+2026-05-01T09:42:30.884Z - [34mdebug[39m: 
+2026-05-01T09:42:30.885Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-05-01T09:42:30.941Z - [32minfo[39m: Site data built
+2026-05-01T09:42:30.941Z - [32minfo[39m: Lazy website regeneration complete! Total build time: 2.522s
+2026-05-01T09:44:16.739Z - [32minfo[39m: [17:44:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2026-05-01T09:44:16.747Z - [32minfo[39m: Synchronizing opened pages list before reload
+2026-05-01T09:44:16.754Z - [32minfo[39m: Current opened pages, from most-to-least recent:
+2026-05-01T09:44:16.755Z - [32minfo[39m: 1. admin/tp-pe
+2026-05-01T09:44:17.769Z - [32minfo[39m: Rebuilding 1 pages
+2026-05-01T09:44:18.868Z - [36mverbose[39m: Rendering page: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe.md
+2026-05-01T09:44:18.914Z - [32minfo[39m: Site data built
+2026-05-01T09:44:18.914Z - [32minfo[39m: Pages rebuilt
+2026-05-01T09:44:18.914Z - [32minfo[39m: Website regeneration complete! Total build time: 1.15s

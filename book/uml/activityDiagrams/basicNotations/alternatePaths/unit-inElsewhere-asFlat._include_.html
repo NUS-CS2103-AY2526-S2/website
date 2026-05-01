@@ -16,7 +16,7 @@
 <ul>
 <li>Omitting the merge node if it doesn't cause any ambiguities.</li>
 <li>Multiple arrows can start from the same corner of a branch node.</li>
-<li>Omitting the <code class="hljs inline no-lang" v-pre>[Else]</code> condition.</li></ul>
+<li>Omitting the <code class="hljs inline no-lang" v-pre>[else]</code> guard condition <span class="dimmed">(when there are <code class="hljs inline no-lang" v-pre>n</code> alternative paths and <code class="hljs inline no-lang" v-pre>n-1</code> paths have guard conditions, the remaining path can automatically be interpreted as <code class="hljs inline no-lang" v-pre>[else]</code>)</span>.</li></ul>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> The AD below illustrates the simplifications mentioned above:</p>
 <pic eager src="/website/book/uml/activityDiagrams/basicNotations/alternatePaths/images/simplifications.png" width="400"></pic>
